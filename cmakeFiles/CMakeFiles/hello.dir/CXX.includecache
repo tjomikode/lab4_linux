@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amooyts/lab4/functions.h
+
+/home/amooyts/lab4/main.cpp
+iostream
+-
+functions.h
+/home/amooyts/lab4/functions.h
+

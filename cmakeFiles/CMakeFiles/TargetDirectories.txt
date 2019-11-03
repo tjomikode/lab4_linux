@@ -1,0 +1,4 @@
+/home/amooyts/cmakeFiles/CMakeFiles/edit_cache.dir
+/home/amooyts/cmakeFiles/CMakeFiles/rebuild_cache.dir
+/home/amooyts/cmakeFiles/CMakeFiles/hello.dir
+/home/amooyts/cmakeFiles/CMakeFiles/func.dir

@@ -1,0 +1,4 @@
+/home/amooyts/ninjaFiles/CMakeFiles/edit_cache.dir
+/home/amooyts/ninjaFiles/CMakeFiles/rebuild_cache.dir
+/home/amooyts/ninjaFiles/CMakeFiles/hello.dir
+/home/amooyts/ninjaFiles/CMakeFiles/func.dir

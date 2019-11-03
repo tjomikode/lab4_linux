@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunc.a  CMakeFiles/func.dir/hello.cpp.o CMakeFiles/func.dir/factorial.cpp.o
+/usr/bin/ranlib libfunc.a

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amooyts/lab4/factorial.cpp
+functions.h
+/home/amooyts/lab4/functions.h
+
+/home/amooyts/lab4/functions.h
+
+/home/amooyts/lab4/hello.cpp
+iostream
+-
+functions.h
+/home/amooyts/lab4/functions.h
+
